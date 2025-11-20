@@ -8,31 +8,31 @@ It includes both BASICS (loops, conditions, functions) and real-world automation
 📁 Repository Structure
 
 Shell-Scripting-Projects/
- ├── Basic Scripts/
- │     ├── if-else-examples/
- │     ├── loops/
- │     ├── case-statements/
- │     ├── functions/
- │     ├── user-input/
- │     ├── file-check/
- │     ├── directory-check/
- │     ├── arrays/
- │     ├── calculator/
- │     └── menu-driven-script/
- │
- └── PROJECTS/
- │     ├── 01-log-analyzer/
- │     ├── 02-backup-automation/
- │     ├── 03-system-health-monitor/
- │     ├── 04-user-management/
- │     ├── 05-process-watchdog/
- │     ├── 06-folder-watcher/
- │     ├── 07-bulk-renamer/
- │     ├── 08-password-checker/
- │     ├── 09-weather-api/
- │     ├── 10-auto-deploy/
- │     ├── 11-aws-automation/
- │     └── 12-menu-tool/
+   • Basic Scripts/
+       01. if-else-examples/
+       02. loops/
+       03. case-statements/
+       04. functions/
+       05. user-input/
+       06. file-check/
+       07. directory-check/
+       08. arrays/
+       09. calculator/
+       10. menu-driven-script/
+ 
+   • PROJECTS/
+       01. log-analyzer/
+       02. backup-automation/
+       03. system-health-monitor/
+       04. user-management/
+       05. process-watchdog/
+       06. folder-watcher/
+       07. bulk-renamer/
+       08. password-checker/
+       09. weather-api/
+       10. auto-deploy/
+       11. aws-automation/
+       12. menu-tool/
 
 ---
 

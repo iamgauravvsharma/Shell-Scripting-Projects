@@ -1,2 +1,136 @@
-# Shell-Scripting-Projects
-"Complete Shell Scripting practice repo with basics + real automation projects for Linux &amp; Devops automation."
+🚀 Shell Scripting Projects (Beginner + Mid-Level)
+
+This repository contains Shell Scripting projects built to learn and practice Linux, Bash, DevOps automation, and AWS CLI scripting.
+It includes both BASICS (loops, conditions, functions) and real-world automation projects.
+
+---
+
+📁 Repository Structure
+
+Shell-Scripting-Projects/
+ ├── Basic Scripts/
+ │     ├── if-else-examples/
+ │     ├── loops/
+ │     ├── case-statements/
+ │     ├── functions/
+ │     ├── user-input/
+ │     ├── file-check/
+ │     ├── directory-check/
+ │     ├── arrays/
+ │     ├── calculator/
+ │     └── menu-driven-script/
+ │
+ └── PROJECTS/
+ │     ├── 01-log-analyzer/
+ │     ├── 02-backup-automation/
+ │     ├── 03-system-health-monitor/
+ │     ├── 04-user-management/
+ │     ├── 05-process-watchdog/
+ │     ├── 06-folder-watcher/
+ │     ├── 07-bulk-renamer/
+ │     ├── 08-password-checker/
+ │     ├── 09-weather-api/
+ │     ├── 10-auto-deploy/
+ │     ├── 11-aws-automation/
+ │     └── 12-menu-tool/
+
+---
+
+🧠 Skills Covered
+
+• Bash Scripting
+• If-Else, Loops, Functions
+• Arrays & Case statements
+• grep, sed, awk
+• File & Directory handling
+• API requests using curl
+• Process management
+• Cron job automation
+• Linux system monitoring
+• AWS CLI automation
+
+---
+
+
+🎯 Purpose of This Repository
+
+• This repo demonstrates:
+• Strong understanding of Shell Scripting fundamentals
+• Ability to build real-world automation tools
+• Hands-on experience with Linux & DevOps workflows
+• AWS CLI scripting and system-level automation
+• Job-ready scripting skills for DevOps / SRE / Cloud roles
+
+---
+
+
+📦 How to Use
+
+• Clone this repository:
+      git clone https://github.com/<your-username>/shell-scripting-projects
+
+• Navigate to any script folder:
+      cd PROJECTS/01-log-analyzer
+
+• Run the script:
+      bash script.sh
+
+---
+
+🗂 Projects Included
+
+✅ BASICS (Fundamentals)
+    • If-Else practice scripts
+    • For/While loops
+    • Functions
+    • Case-based menus
+    • User input scripts
+    • Calculator
+    • Array loops
+    • File & directory check scripts
+
+
+
+✅ MID-LEVEL AUTOMATION PROJECTS
+    • Log File Analyzer
+    • Backup Automation System
+    • System Health Monitor
+    • User Management Automation
+    • Process Watchdog
+    • Folder Watcher
+    • Bulk File Renamer
+    • Password Strength Checker
+    • Weather API Script
+    • Auto Deploy Script
+    • AWS EC2 + S3 Automation Scripts
+    • Menu-driven Multi Tool
+
+---
+
+📌 Why This Repo Is Useful
+This repository shows:
+    • Your complete shell scripting skillset
+    • Real automation projects used in companies
+    • Ability to work with Linux servers
+    • Comfortable with DevOps fundamentals
+    • Clear coding + documentation skills
+    • Perfect for fresher DevOps / Linux Admin / Cloud roles.
+
+---
+
+
+🤝 Contributions
+Suggestions and improvements are welcome.
+Feel free to create issues or submit pull requests.
+
+---
+
+
+📧 Contact
+If you want to connect or collaborate:
+Email: gauravsharma3553@gmail.coom
+            or
+LinkedIn: www.linkedin.com/in/iamgauravvsharma
+
+
+---
